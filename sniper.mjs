@@ -7,7 +7,11 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import dotenv from 'dotenv';
 
+
 dotenv.config();
+
+
+
 
 
 // ASCII art
