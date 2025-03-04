@@ -30,6 +30,7 @@ const lowBalanceThreshold = 0.02 * 1e9;
 let reconnectAttempts = 0;
 const maxReconnectAttempts = 5;
 
+
 const buys = [];
 const sells = [];
 const checks = [];
