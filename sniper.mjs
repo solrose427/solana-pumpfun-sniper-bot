@@ -10,10 +10,6 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-
-
-
-
 // ASCII art
 const asciiArt = `
  ____  ____  ____  ____  ____  __  __  __  __  ____ 
